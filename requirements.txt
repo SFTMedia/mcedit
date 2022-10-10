@@ -1,4 +1,4 @@
 pyopengl>=3.0.2
-pygame
-numpy
-pyyaml
+pygame==1.9.6
+numpy==1.9
+pyyaml==3.11
